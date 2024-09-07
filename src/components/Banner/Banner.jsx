@@ -1,4 +1,4 @@
-import BannerImage from "../../assets/banner.jpeg";
+import BannerImage from "../../assets/Banner.jpeg";
 function Banner () {
  return(
 
